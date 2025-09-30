@@ -66,6 +66,7 @@ Lógica de Agendamento: Garante que o lembrete só seja agendado (triggerTime > 
 formatDuration(minutesStr): Função auxiliar que converte o total de minutos (valor salvo) de volta para um formato legível para a interface do usuário (ex: "1h 30 min").
 
 👥 Grupo:
+
 Douglas jeronimo souza ferreira
 
 Rafael Fabiano do Nascimento
