@@ -1,4 +1,5 @@
 📅 DET - Diário de estudo e treino
+
 📝 Visão Geral do Projeto
 O DET (Diário de estudo e treino) é um aplicativo de planejamento e gestão de atividades diárias focado em flexibilidade de agendamento e confiabilidade de lembretes. Ele resolve o problema de agendar micro-tarefas, garantindo que o usuário defina durações e lembretes precisos, e que as notificações sejam entregues corretamente no futuro, independentemente da hora atual.
 
