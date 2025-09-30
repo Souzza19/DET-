@@ -67,8 +67,11 @@ formatDuration(minutesStr): Função auxiliar que converte o total de minutos (v
 
 👥 Grupo:
 Douglas jeronimo souza ferreira
+
 Rafael Fabiano do Nascimento
+
 Pablo de Matos dos Santos
+
 Thiago Silva de Araujo Rodrigues
 
 
